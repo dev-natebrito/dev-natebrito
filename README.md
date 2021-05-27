@@ -2,7 +2,7 @@
 <h3 align="center">A fiery frontend developer and a code adventurer in my spare time :)</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-natebrito&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="dev-natebrito" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-natebrito&theme=midnight-purple&show_icons=true&locale=en" alt="dev-natebrito" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-natebrito&theme=midnight-purple&show_icons=true&locale=en" alt="dev-natebrito" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-natebrito&label=Profile%20views&color=0e75b6&style=flat" alt="dev-natebrito" /> </p>
