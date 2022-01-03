@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/dev-natebrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/dev-natebrito/dev-natebrito/master/dev-natebrito-main/icon/linkedin.svg" alt="dev-natebrito" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-natebrito" target="blank"><img align="left" src="https://raw.githubusercontent.com/dev-natebrito/dev-natebrito/master/dev-natebrito-main/icon/linkedin.svg" alt="dev-natebrito" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
