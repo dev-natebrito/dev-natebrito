@@ -1,5 +1,6 @@
 <h1 align="center">Hey Dev👋, I'm Nate!</h1>
 <h3 align="center">A fullstack developer with a eager to learn :)</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-natebrito&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="dev-natebrito" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-natebrito&theme=midnight-purple&show_icons=true&locale=en" alt="dev-natebrito" /></p>
