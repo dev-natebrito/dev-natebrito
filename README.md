@@ -1,4 +1,4 @@
-<h1 align="center">Hey Dev👋, I'm Nate!</h1>
+<h1 align="center">Hey I'm Nate!</h1>
 <h3 align="center">My name is Nathan, but can call me Nate, I'm a Tech-nerd who believes that technology is the magic of the real-world</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-natebrito&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="dev-natebrito" /></p>
