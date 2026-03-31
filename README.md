@@ -35,10 +35,12 @@ Currently at **BTG Pactual** — developing price distribution infrastructure th
 
 **Distributed Systems & Messaging**
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Cloud & DevOps**
@@ -53,6 +55,10 @@ Currently at **BTG Pactual** — developing price distribution infrastructure th
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-natebrito&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-natebrito&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-natebrito&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-natebrito&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-natebrito&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
